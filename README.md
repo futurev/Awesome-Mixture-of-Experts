@@ -64,9 +64,9 @@ ICML 2024, [[Link](https://moe-tutorial.github.io/)] [[Slides](https://icml.cc/m
 2024
 
 # Books
-**The Path to Artificial General Intelligence: Insights from Adversarial LLM Dialogue**\
+**Multi-LLM Agent Collaborative Intelligence: The Path to Artificial General Intelligence**\
 _Edward Y. Chang_\
-Stanford University, [[Link](https://www.amazon.com/dp/1962463303)]\
+Stanford University, [[Link](https://www.researchgate.net/publication/387541177_Multi-LLM_Agent_Collaborative_Intelligence_The_Path_to_Artificial_General_Intelligence)]\
 March 2024
 
 **Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media**\
