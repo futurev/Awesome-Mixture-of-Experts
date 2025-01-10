@@ -26,6 +26,7 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
       - [Load Balance Loss](#Load-Balance-Loss)
       - [z-loss](#z-loss)
       - [Mutual Information Loss](#Mutual-Information-Loss)
+      - [Auxiliary-Loss-Free Load Balancing](#Auxiliary-Loss-Free-Load-Balancing)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
     - [Non-trainable Gating Mechanism](#Non-trainable-Gating-Mechanism)
       - [Random Assignment](#Random-Assignment)
@@ -310,6 +311,12 @@ arXiv, [[Paper](https://arxiv.org/abs/2306.04640)]\
 _Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Learned-Miller, Chuang Gan_\
 CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
 15 Dec 2022
+
+#### Auxiliary-Loss-Free Load Balancing
+**DeepSeek-V3 Technical Report**\
+_DeepSeek-AI_\
+arXiv, [[Paper](https://arxiv.org/abs/2412.19437)] [[GitHub](https://github.com/deepseek-ai/DeepSeek-V3)]\
+27 Dec 2024
 
 ### Expert Capacity Limit
 **Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**\
