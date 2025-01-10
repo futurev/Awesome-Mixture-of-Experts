@@ -313,7 +313,7 @@ CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
 15 Dec 2022
 
 #### Auxiliary-Loss-Free Load Balancing
-**DeepSeek-V3 Technical Report**\
+**_Dynamic Adjustment_ - DeepSeek-V3 Technical Report**\
 _DeepSeek-AI_\
 arXiv, [[Paper](https://arxiv.org/abs/2412.19437)] [[GitHub](https://github.com/deepseek-ai/DeepSeek-V3)]\
 27 Dec 2024
