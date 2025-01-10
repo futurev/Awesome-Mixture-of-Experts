@@ -26,6 +26,7 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
       - [Load Balance Loss](#Load-Balance-Loss)
       - [z-loss](#z-loss)
       - [Mutual Information Loss](#Mutual-Information-Loss)
+      - [Sequence-Wise Auxiliary Loss](#Sequence-Wise-Auxiliary-Loss)
       - [Auxiliary-Loss-Free Load Balancing](#Auxiliary-Loss-Free-Load-Balancing)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
     - [Non-trainable Gating Mechanism](#Non-trainable-Gating-Mechanism)
@@ -296,7 +297,7 @@ _Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam 
 arXiv, [[Paper](https://arxiv.org/abs/2202.08906)]\
 29 Apr 2022
 
-### Mutual Information Loss
+#### Mutual Information Loss
 **_Mutual Information Loss and Mixture of Attention_ - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
 _Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
 arXiv, [[Paper](https://arxiv.org/abs/2404.05567)]\
@@ -311,6 +312,12 @@ arXiv, [[Paper](https://arxiv.org/abs/2306.04640)]\
 _Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Learned-Miller, Chuang Gan_\
 CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
 15 Dec 2022
+
+#### Sequence-Wise Auxiliary Loss
+**_Sequence-wise Balance Loss_ - DeepSeek-V3 Technical Report**\
+_DeepSeek-AI_\
+arXiv, [[Paper](https://arxiv.org/abs/2412.19437)] [[GitHub](https://github.com/deepseek-ai/DeepSeek-V3)]\
+27 Dec 2024
 
 #### Auxiliary-Loss-Free Load Balancing
 **_Dynamic Adjustment_ - DeepSeek-V3 Technical Report**\
