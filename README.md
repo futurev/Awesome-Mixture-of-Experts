@@ -59,6 +59,11 @@ University of Pittsburgh, [[Link](https://people.cs.pitt.edu/~milos/courses/cs27
 Spring 2004
 
 # Presentation
+**The Big LLM Architecture Comparison: From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design**\
+_Sebastian Raschka_\
+Blog 2025, [[Link](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)]\
+2025
+
 **Mixture-of-Experts in the Era of LLMs: A New Odyssey**\
 _Tianlong Chen, Yu Cheng, Beidi Chen, Minjia Zhang, Mohit Bansal_\
 ICML 2024, [[Link](https://moe-tutorial.github.io/)] [[Slides](https://icml.cc/media/icml-2024/Slides/35222_1r94S59.pdf#page=1.00)]\
