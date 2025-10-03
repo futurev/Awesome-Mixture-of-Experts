@@ -88,6 +88,11 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 
 # Papers
 ## Survey
+**A REVIEW OF SPARSE EXPERT MODELS IN DEEP LEARNING**\
+William Fedus, Jeff Dean, Barret Zoph Google Brain 
+arXiv, [[Paper](https://arxiv.org/pdf/2209.01667)]\
+Sep, 2022
+
 **A Survey on Mixture of Experts**\
 _Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, Jiayi Huang_\
 arXiv, [[Paper](https://arxiv.org/abs/2407.06204)] [[GitHub](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts)]\
