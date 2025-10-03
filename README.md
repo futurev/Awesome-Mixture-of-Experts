@@ -46,7 +46,7 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
 
 **CS336: Language Modeling from Scratch**\
 Tatsunori Hashimoto
-Stanford University, [[video]https://www.youtube.com/watch?v=LPv1KfUXLCo][[link]https://stanford-cs336.github.io/spring2025/index.html#schedule]\
+Stanford University, [[video](https://www.youtube.com/watch?v=LPv1KfUXLCo)]  [[link](https://stanford-cs336.github.io/spring2025/index.html#schedule)]\
 Spring, 2025
 
 **CS324: Large Language Models - Selective Architectures**\
