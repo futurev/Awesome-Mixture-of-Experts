@@ -94,8 +94,8 @@ arXiv, [[Paper](https://arxiv.org/pdf/2209.01667)]\
 Sep, 2022
 
 **A Survey on Mixture of Experts**\
-_Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, Jiayi Huang_\
-arXiv, [[Paper](https://arxiv.org/abs/2407.06204)] [[GitHub](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts)]\
+_Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, Jiayi Huang \
+arXiv, [[Paper](https://arxiv.org/abs/2407.06204)] [[GitHub](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts)] \
 8 Aug 2024
 
 **Routers in Vision Mixture of Experts: An Empirical Study**\
